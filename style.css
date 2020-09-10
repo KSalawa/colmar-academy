@@ -496,5 +496,8 @@ body {
       display: none;
     }
   
+    .description {
+      padding: 15px;
+    }
   }
   
