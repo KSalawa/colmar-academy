@@ -2,7 +2,7 @@
 body {
     background-color: #b6b6b6;
     font-family: 'Open Sans', sans-serif;
-    color: #303030;
+    color: black;
     font-size: 16px;
     line-height: 0;
     margin: 0;
@@ -56,13 +56,14 @@ body {
   }
   
   .dark {
-    background-color: #d8d8d8;
+    background-color: #c7efff;
   }
   
   /* Text styles */
   h1 {
     font-size: 2rem;
     line-height: 2rem;
+
   }
   
   h2 {
@@ -129,7 +130,7 @@ body {
   
   .articles .others {
     padding-bottom: 2rem;
-    padding-top: 1rem;
+    padding-top: 32px;
   }
   
   .articles .others .card_pic .description a {
@@ -139,6 +140,7 @@ body {
   /* Courses */
   .courses h1 {
     text-align: center;
+    padding: 32px;
   }
   
   .courses {
